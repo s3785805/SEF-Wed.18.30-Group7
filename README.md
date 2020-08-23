@@ -9,4 +9,7 @@ Jiaqi Li
 Clickup:
 https://app.clickup.com/6916677/v/l/6-13243658-1
 
+github repo
+https://github.com/s3785805/SEF-Wed.18.30-Group7.git
+
 all members contributed equally
